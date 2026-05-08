@@ -1,4 +1,4 @@
-# Hi there, I'm Ganesh 👋  
+# Hi, I'm Ganesh 👋  
 ### 💻 Full Stack Developer | Java Enthusiast | Problem Solver  
 
 ---
