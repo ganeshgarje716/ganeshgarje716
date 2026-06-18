@@ -14,7 +14,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 **3rd Year Engineering Student**
+🎓 **4th Year Engineering Student**
 
 💡 Passionate about building real-world tech solutions
 
@@ -64,9 +64,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganeshgarje&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganeshgarje716&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshgarje&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshgarje716&theme=tokyonight"/>
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshgarje&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshgarje716&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -100,11 +100,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ganeshgarje">
+<a href="https://www.linkedin.com/in/ganeshgarje716">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ganeshgarje">
+<a href="https://github.com/ganeshgarje716">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -120,6 +120,6 @@
 
 ### ⚡ Code • Build • Improve • Repeat
 
-<img src="https://komarev.com/ghpvc/?username=ganeshgarje&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ganeshgarje716&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
